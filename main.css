@@ -1,0 +1,39 @@
+html {
+    -webkit-font-smoothing: antialiased;
+    background: linear-gradient(#D9D2C8,#D9D2C8 50%, #D9D2C8);
+}
+
+body {
+    background: #707070;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+	font-family: 'Overlock', cursive;
+	font-family: 'Stylish', sans-serif;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 1100px;
+    padding:  2em 4em;
+	color: white;
+}
+
+
+.button {
+    background-color: gray; /* Gray */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align:justify;
+	display: inline-block;
+    font-size: 16px;
+	font-family: 'Bitter'
+
+	.left {
+   float: right;
+   padding: 0 20px 20px 0;
+position: inline;
+	}
+
+.a {
+    list-style-position: oustide;
+    list-style: center;
+}
